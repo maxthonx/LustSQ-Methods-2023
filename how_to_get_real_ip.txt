@@ -1,5 +1,5 @@
 so you can find out the real IP and it's very simple loll
 
-Create acc on  https://search.censys.io/
+Create acc on  https://search.censys.io/ or https://securitytrails.com/
 
 and put domain like "aspectmania.com.br" and gg 
